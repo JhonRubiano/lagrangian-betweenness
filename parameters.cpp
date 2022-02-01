@@ -319,7 +319,7 @@ else if (vel_product==3)
       prod_name="Glob_Ekman_dt";
       prod_prefix="ekman_dt";
       degree_resolution = 0.25; // 1/4 degrees
-      ncdir = "/home/abaudena/cpp/code_Betweenness/Velocity_field/Glob_Ekman_dt/";
+      ncdir = "/home/JhonRubiano/Documentos/ThesisLab/lagrangian-betweenness";//"/home/abaudena/cpp/code_Betweenness/Velocity_field/Glob_Ekman_dt/";
       lon_name_nc="lon";lat_name_nc="lat";
       u_name_nc="uo";v_name_nc="vo";//how the vel field is called in the netcdf file
       int_step=1./8.; //time step of the integration (RK4) in days

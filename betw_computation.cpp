@@ -48,8 +48,8 @@ const double deg2rad = (pig/180.); // Conversion from degree to radians
 const double day2sec = 60. * 60. * 24.; // Daily data -> velocities converted from seconds to days
 const double Radius = 6372795.48;     // radius of the Earth (m)
 
-const string input_dir = "/home/abaudena/cpp/code_Betweenness/Outputs/";
-const string output_dir = "/home/abaudena/cpp/code_Betweenness/Outputs/";
+const string input_dir = "/home/JhonRubiano/Documentos/ThesisLab/lagrangian-betweenness/Output"; //"/home/abaudena/cpp/code_Betweenness/Outputs/";
+const string output_dir = "/home/JhonRubiano/Documentos/ThesisLab/lagrangian-betweenness/Output";//"/home/abaudena/cpp/code_Betweenness/Outputs/";
 
 
 // Tracer domain
